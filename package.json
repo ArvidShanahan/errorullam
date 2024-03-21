@@ -1,0 +1,36 @@
+{
+  "name": "errorullam",
+  "version": "1.0.0",
+  "description": "Node module for ethereum wallet address creation and validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArvidShanahan/errorullam.git"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "keywords": [
+    "accusamus",
+    "aperiam",
+    "neque",
+    "laudantium",
+    "validator",
+    "soluta",
+    "quis"
+  ],
+  "author": "KamrenHeathcote",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "ethers": "^3.0.8",
+    "keythereum": "^1.0.2"
+  }
+}
